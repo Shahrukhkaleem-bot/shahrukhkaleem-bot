@@ -1,21 +1,56 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>• Flutter mobile applications  <br>• Web development using PHP  <br><br>👯 I’m looking to collaborate on  <br>• Remote projects with companies and teams  <br>• Open-source and real-world web/mobile applications  <br><br>🤝 I’m looking for help with  <br>• Scaling full-stack applications  <br>• Best practices in backend architecture  <br><br>🌱 I’m currently learning  <br>• MERN stack backend (Node.js, Express.js, MongoDB)  <br><br>💬 Ask me about  <br>• Web development (PHP, MySQL)  <br>• Flutter app development  <br>• Backend fundamentals  <br><br>⚡ Fun fact  <br>• I love turning ideas into real products and enjoy learning new tech stacks continuously 🚀<br>
+<div align="center">
 
+# Shahrukh Kaleem
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/SHAHRUKHKALEEM ) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/SHAHRUKHKALEEM-BOT) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/SHAHRUKH KALEEM ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SHAHRUKH.KALEEM786) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SHAHRUKH KALEEM) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahrukhkaleem109@gmail.com) 
+### Full-stack developer building useful products for the web and mobile
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shahrukhkaleem-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shahrukhkaleem-bot&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shahrukhkaleem-bot&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I turn ideas into reliable interfaces, practical APIs, and complete digital products.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shahrukhkaleem109@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shahrukhkaleem-bot)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shahrukhkaleem-bot&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I build
+
+- **Web applications** with responsive, accessible frontends
+- **Backend systems** with clear APIs, authentication, and database design
+- **Flutter applications** for mobile-first product experiences
+- **Practical tools** that simplify business and academic workflows
+
+## Current focus
+
+I am deepening my full-stack skills with **Node.js, Express, MongoDB, and TypeScript** while continuing to build with PHP, Flutter, and SQL.
+
+## Selected work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Pet-Vet_Pos](https://github.com/Shahrukhkaleem-bot/Pet-Vet_Pos) | Clinic management and point-of-sale system for veterinary businesses | TypeScript |
+| [smart-school-pk](https://github.com/Shahrukhkaleem-bot/smart-school-pk) | School management platform with web and mobile workflows | PHP, Flutter |
+| [Portfolio_web](https://github.com/Shahrukhkaleem-bot/Portfolio_web) | Personal portfolio and project showcase | Next.js, TypeScript |
+| [PhishGuard](https://github.com/Shahrukhkaleem-bot/PhishGuard) | Security project for identifying phishing threats | Python |
+| [Gift-recommender](https://github.com/Shahrukhkaleem-bot/Gift-recommender) | Personalized gift recommendation experience | TypeScript |
+| [meal_mate](https://github.com/Shahrukhkaleem-bot/meal_mate) | Mobile meal planning and food management application | Dart, Flutter |
+
+## Tools I use
+
+**Frontend**  `HTML` `CSS` `JavaScript` `TypeScript` `Next.js`
+
+**Backend**  `PHP` `Node.js` `Express` `MySQL` `MongoDB` `Firebase`
+
+**Mobile and languages**  `Flutter` `Dart` `Python` `C++` `Java`
+
+**Workflow**  `Git` `GitHub` `REST APIs` `SQL` `Figma` `Canva`
+
+## Let us build something useful
+
+I am open to thoughtful collaborations, real-world products, and opportunities where good engineering makes the experience simpler.
+
+<div align="center">
+
+[View all repositories](https://github.com/Shahrukhkaleem-bot?tab=repositories)
+
+</div>
